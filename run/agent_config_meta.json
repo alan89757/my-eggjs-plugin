@@ -1,0 +1,271 @@
+{
+  "keys": "C:\\projectNew\\my-eggjs-plugin\\config\\config.default.js",
+  "start": {
+    "fileName": "C:\\projectNew\\my-eggjs-plugin\\config\\config.default.js",
+    "basePath": "C:\\projectNew\\my-eggjs-plugin\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-schedule\\config\\config.default.js",
+    "interval": "C:\\projectNew\\my-eggjs-plugin\\lib\\plugin\\egg-schedule\\config\\config.default.js",
+    "basePath": "C:\\projectNew\\my-eggjs-plugin\\lib\\plugin\\egg-schedule\\config\\config.default.js",
+    "fileName": "C:\\projectNew\\my-eggjs-plugin\\lib\\plugin\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "debug": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "author": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\projectNew\\my-eggjs-plugin\\node_modules\\egg\\config\\config.default.js"
+}

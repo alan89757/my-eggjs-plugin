@@ -1,0 +1,750 @@
+2020-04-06 13:04:34,594 INFO 1304 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:04:34,594 INFO 1304 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:04:34,594 INFO 1304 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:04:35,530 INFO 20452 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 55524480ms at 2020-04-07 04:30:00.010
+2020-04-06 13:04:35,532 INFO 20452 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 39324469ms at 2020-04-07 00:00:00.001
+2020-04-06 13:04:35,534 INFO 20452 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 39325468ms at 2020-04-07 00:00:01.002
+2020-04-06 13:11:54,593 INFO 18824 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:11:54,593 INFO 18824 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:11:54,593 INFO 18824 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:12:05,039 INFO 15676 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 55074968ms at 2020-04-07 04:30:00.007
+2020-04-06 13:12:05,041 INFO 15676 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 38874960ms at 2020-04-07 00:00:00.001
+2020-04-06 13:12:05,042 INFO 15676 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 38875959ms at 2020-04-07 00:00:01.001
+2020-04-06 13:22:00,906 INFO 19316 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:22:00,906 INFO 19316 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:22:00,906 INFO 19316 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:23:58,632 INFO 18668 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:23:58,632 INFO 18668 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:23:58,632 INFO 18668 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:25:49,358 INFO 17956 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:25:49,358 INFO 17956 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:25:49,358 INFO 17956 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:28:27,167 INFO 10600 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:28:27,167 INFO 10600 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:28:27,167 INFO 10600 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:33:23,154 INFO 9036 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:33:23,154 INFO 9036 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:33:23,154 INFO 9036 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:34:39,328 INFO 15480 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:34:39,328 INFO 15480 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:34:39,328 INFO 15480 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:34:40,651 INFO 1444 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53719358ms at 2020-04-07 04:30:00.009
+2020-04-06 13:34:40,653 INFO 1444 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 37519348ms at 2020-04-07 00:00:00.000
+2020-04-06 13:34:40,654 INFO 1444 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37520347ms at 2020-04-07 00:00:01.001
+2020-04-06 13:34:52,833 INFO 10192 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:34:52,833 INFO 10192 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:34:52,833 INFO 10192 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:34:54,699 INFO 19004 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:34:54,699 INFO 19004 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:34:54,699 INFO 19004 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:35:05,178 INFO 14960 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:35:05,178 INFO 14960 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:35:05,178 INFO 14960 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:35:22,155 INFO 12780 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:35:22,155 INFO 12780 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:35:22,155 INFO 12780 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:40:34,639 INFO 18620 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:40:34,639 INFO 18620 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:40:34,639 INFO 18620 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:40:35,857 INFO 14740 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53364147ms at 2020-04-07 04:30:00.004
+2020-04-06 13:40:35,858 INFO 14740 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 37164143ms at 2020-04-07 00:00:00.001
+2020-04-06 13:40:35,858 INFO 14740 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37165142ms at 2020-04-07 00:00:01.000
+2020-04-06 13:41:25,818 INFO 11416 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:41:25,818 INFO 11416 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:41:25,818 INFO 11416 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:44:30,658 INFO 18960 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:44:30,658 INFO 18960 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:44:30,658 INFO 18960 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:46:42,746 INFO 18352 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:46:42,746 INFO 18352 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:46:42,746 INFO 18352 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:49:01,004 INFO 8160 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:49:01,004 INFO 8160 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:49:01,004 INFO 8160 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:55:29,474 INFO 10172 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:55:29,474 INFO 10172 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:55:29,474 INFO 10172 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:55:30,824 INFO 18220 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52469179ms at 2020-04-07 04:30:00.003
+2020-04-06 13:55:30,825 INFO 18220 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 36269176ms at 2020-04-07 00:00:00.001
+2020-04-06 13:55:30,825 INFO 18220 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 36270175ms at 2020-04-07 00:00:01.000
+2020-04-06 13:58:21,311 INFO 13188 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:58:21,311 INFO 13188 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:58:21,311 INFO 13188 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:58:47,043 INFO 17084 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 13:58:47,043 INFO 17084 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 13:58:47,043 INFO 17084 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 13:58:48,649 INFO 11864 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52271356ms at 2020-04-07 04:30:00.005
+2020-04-06 13:58:48,650 INFO 11864 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 36071350ms at 2020-04-07 00:00:00.000
+2020-04-06 13:58:48,651 INFO 11864 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 36072349ms at 2020-04-07 00:00:01.000
+2020-04-06 14:05:56,294 INFO 3864 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:05:56,294 INFO 3864 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:05:56,294 INFO 3864 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:25:02,738 INFO 19476 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:25:02,738 INFO 19476 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:25:02,738 INFO 19476 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:25:02,738 INFO 19476 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:26:14,987 INFO 13612 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:26:14,987 INFO 13612 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:26:14,987 INFO 13612 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:26:14,987 INFO 13612 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:27:16,390 INFO 14016 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:27:16,390 INFO 14016 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:27:16,390 INFO 14016 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:27:16,390 INFO 14016 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:27:17,853 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50562150ms at 2020-04-07 04:30:00.003
+2020-04-06 14:27:17,853 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34362147ms at 2020-04-07 00:00:00.000
+2020-04-06 14:27:17,853 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34363147ms at 2020-04-07 00:00:01.000
+2020-04-06 14:27:17,854 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:27:27.854
+2020-04-06 14:27:27,857 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:27:37.857
+2020-04-06 14:27:27,859 INFO 14016 [Job#15861544478561894972584789991] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:27:27,862 INFO 14016 [Job#15861544478561894972584789991] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:27:37,860 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:27:47.859
+2020-04-06 14:27:37,858 INFO 14016 [Job#15861544578581895072598398992] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:27:37,859 INFO 14016 [Job#15861544578581895072598398992] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 0ms
+2020-04-06 14:27:47,861 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:27:57.861
+2020-04-06 14:27:47,861 INFO 14016 [Job#15861544678611895172630151003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:27:47,862 INFO 14016 [Job#15861544678611895172630151003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 0ms
+2020-04-06 14:27:57,862 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:28:07.862
+2020-04-06 14:27:57,862 INFO 14016 [Job#15861544778621895272639363004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:27:57,863 INFO 14016 [Job#15861544778621895272639363004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:28:07,863 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:28:17.863
+2020-04-06 14:28:07,864 INFO 14016 [Job#15861544878631895372653282995] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:28:07,864 INFO 14016 [Job#15861544878631895372653282995] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 0ms
+2020-04-06 14:28:17,864 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:28:27.864
+2020-04-06 14:28:17,865 INFO 14016 [Job#15861544978641895472663070996] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:28:17,866 INFO 14016 [Job#15861544978641895472663070996] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:28:27,864 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:28:37.864
+2020-04-06 14:28:27,865 INFO 14016 [Job#15861545078641895572668185997] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:28:27,866 INFO 14016 [Job#15861545078641895572668185997] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:28:37,887 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:28:47.887
+2020-04-06 14:28:37,888 INFO 14016 [Job#15861545178861895672888907008] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:28:37,892 INFO 14016 [Job#15861545178861895672888907008] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 4ms
+2020-04-06 14:28:47,888 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:28:57.888
+2020-04-06 14:28:47,889 INFO 14016 [Job#15861545278871895772900171009] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:28:47,891 INFO 14016 [Job#15861545278871895772900171009] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:28:57,889 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:29:07.889
+2020-04-06 14:28:57,890 INFO 14016 [Job#158615453788918958729141000010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:28:57,890 INFO 14016 [Job#158615453788918958729141000010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 0ms
+2020-04-06 14:29:07,890 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:29:17.890
+2020-04-06 14:29:07,891 INFO 14016 [Job#158615454789018959729231550011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:29:07,891 INFO 14016 [Job#158615454789018959729231550011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 0ms
+2020-04-06 14:29:17,892 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:29:27.892
+2020-04-06 14:29:17,892 INFO 14016 [Job#158615455789218960729367190012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:29:17,893 INFO 14016 [Job#158615455789218960729367190012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:29:27,893 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:29:37.893
+2020-04-06 14:29:27,893 INFO 14016 [Job#158615456789318961729510649913] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:29:27,894 INFO 14016 [Job#158615456789318961729510649913] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:29:37,895 INFO 13164 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:29:47.895
+2020-04-06 14:29:37,895 INFO 14016 [Job#158615457789418962729638610014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:29:37,895 INFO 14016 [Job#158615457789418962729638610014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 0ms
+2020-04-06 14:29:57,973 INFO 5920 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:29:57,973 INFO 5920 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:29:57,973 INFO 5920 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:29:57,973 INFO 5920 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:29:59,477 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50400530ms at 2020-04-07 04:30:00.007
+2020-04-06 14:29:59,477 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34200523ms at 2020-04-07 00:00:00.000
+2020-04-06 14:29:59,478 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34201523ms at 2020-04-07 00:00:01.001
+2020-04-06 14:29:59,478 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:30:09.478
+2020-04-06 14:30:09,480 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:30:19.480
+2020-04-06 14:30:09,480 INFO 5920 [Job#15861546094791896588809128001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:30:09,488 ERROR 5920 [Job#15861546094791896588809128001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:09,493 ERROR 5920 [Job#15861546094791896588809128001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 7ms
+2020-04-06 14:30:19,479 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:30:29.479
+2020-04-06 14:30:19,479 INFO 5920 [Job#15861546194791896688813831002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:30:19,483 ERROR 5920 [Job#15861546194791896688813831002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:19,485 ERROR 5920 [Job#15861546194791896688813831002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:30:29,480 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:30:39.480
+2020-04-06 14:30:29,480 INFO 5920 [Job#15861546294801896788822598993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:30:29,487 ERROR 5920 [Job#15861546294801896788822598993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:29,490 ERROR 5920 [Job#15861546294801896788822598993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 7ms
+2020-04-06 14:30:39,481 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:30:49.481
+2020-04-06 14:30:39,481 INFO 5920 [Job#15861546394811896888832989994] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:30:39,486 ERROR 5920 [Job#15861546394811896888832989994] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:39,487 ERROR 5920 [Job#15861546394811896888832989994] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:30:49,483 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:30:59.483
+2020-04-06 14:30:49,483 INFO 5920 [Job#15861546494821896988846867995] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:30:49,487 ERROR 5920 [Job#15861546494821896988846867995] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:49,488 ERROR 5920 [Job#15861546494821896988846867995] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:30:59,484 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:31:09.484
+2020-04-06 14:30:59,484 INFO 5920 [Job#15861546594841897088860086006] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:30:59,488 ERROR 5920 [Job#15861546594841897088860086006] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:59,489 ERROR 5920 [Job#15861546594841897088860086006] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:31:09,489 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:31:19.489
+2020-04-06 14:31:09,488 INFO 5920 [Job#15861546694871897188890760007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:31:09,492 ERROR 5920 [Job#15861546694871897188890760007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:09,494 ERROR 5920 [Job#15861546694871897188890760007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:31:19,489 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:31:29.489
+2020-04-06 14:31:19,488 INFO 5920 [Job#15861546794891897288906264998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:31:19,493 ERROR 5920 [Job#15861546794891897288906264998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:19,493 ERROR 5920 [Job#15861546794891897288906264998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:31:29,489 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:31:39.489
+2020-04-06 14:31:29,489 INFO 5920 [Job#15861546894891897388908906009] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:31:29,491 ERROR 5920 [Job#15861546894891897388908906009] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:29,492 ERROR 5920 [Job#15861546894891897388908906009] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 2ms
+2020-04-06 14:31:39,494 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:31:49.494
+2020-04-06 14:31:39,492 INFO 5920 [Job#158615469949218974889422860010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:31:39,500 ERROR 5920 [Job#158615469949218974889422860010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:39,501 ERROR 5920 [Job#158615469949218974889422860010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 8ms
+2020-04-06 14:31:49,494 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:31:59.494
+2020-04-06 14:31:49,495 INFO 5920 [Job#158615470949418975889594180011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:31:49,507 ERROR 5920 [Job#158615470949418975889594180011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:49,510 ERROR 5920 [Job#158615470949418975889594180011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 12ms
+2020-04-06 14:31:59,495 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:32:09.495
+2020-04-06 14:31:59,495 INFO 5920 [Job#158615471949518976889682020012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:31:59,498 ERROR 5920 [Job#158615471949518976889682020012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:59,500 ERROR 5920 [Job#158615471949518976889682020012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:32:09,496 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:32:19.496
+2020-04-06 14:32:09,496 INFO 5920 [Job#158615472949618977889759940013] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:32:09,499 ERROR 5920 [Job#158615472949618977889759940013] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:09,500 ERROR 5920 [Job#158615472949618977889759940013] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:32:19,497 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:32:29.497
+2020-04-06 14:32:19,497 INFO 5920 [Job#158615473949618978889852130014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:32:19,501 ERROR 5920 [Job#158615473949618978889852130014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:19,503 ERROR 5920 [Job#158615473949618978889852130014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:32:29,497 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:32:39.497
+2020-04-06 14:32:29,497 INFO 5920 [Job#158615474949718979889890089915] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:32:29,498 ERROR 5920 [Job#158615474949718979889890089915] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:29,500 ERROR 5920 [Job#158615474949718979889890089915] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 1ms
+2020-04-06 14:32:39,498 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:32:49.498
+2020-04-06 14:32:39,498 INFO 5920 [Job#158615475949818980889968640016] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:32:39,502 ERROR 5920 [Job#158615475949818980889968640016] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:39,503 ERROR 5920 [Job#158615475949818980889968640016] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:32:49,498 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:32:59.498
+2020-04-06 14:32:49,498 INFO 5920 [Job#158615476949818981889979260017] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:32:49,502 ERROR 5920 [Job#158615476949818981889979260017] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:49,504 ERROR 5920 [Job#158615476949818981889979260017] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:32:59,500 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:33:09.500
+2020-04-06 14:32:59,501 INFO 5920 [Job#158615477949918982890143770018] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:32:59,516 ERROR 5920 [Job#158615477949918982890143770018] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:59,521 ERROR 5920 [Job#158615477949918982890143770018] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 15ms
+2020-04-06 14:33:09,501 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:33:19.501
+2020-04-06 14:33:09,502 INFO 5920 [Job#158615478950118983890317730019] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:33:09,505 ERROR 5920 [Job#158615478950118983890317730019] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:09,507 ERROR 5920 [Job#158615478950118983890317730019] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:33:19,503 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:33:29.503
+2020-04-06 14:33:19,504 INFO 5920 [Job#158615479950218984890493510020] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:33:19,510 ERROR 5920 [Job#158615479950218984890493510020] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:19,513 ERROR 5920 [Job#158615479950218984890493510020] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 6ms
+2020-04-06 14:33:29,506 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:33:39.506
+2020-04-06 14:33:29,506 INFO 5920 [Job#158615480950518985890696820021] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:33:29,510 ERROR 5920 [Job#158615480950518985890696820021] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:29,511 ERROR 5920 [Job#158615480950518985890696820021] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:33:39,507 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:33:49.507
+2020-04-06 14:33:39,508 INFO 5920 [Job#158615481950618986890891400022] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:33:39,511 ERROR 5920 [Job#158615481950618986890891400022] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:39,512 ERROR 5920 [Job#158615481950618986890891400022] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:33:49,508 INFO 9580 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:33:59.508
+2020-04-06 14:33:49,508 INFO 5920 [Job#158615482950718987890948320023] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:33:49,513 ERROR 5920 [Job#158615482950718987890948320023] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:49,514 ERROR 5920 [Job#158615482950718987890948320023] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:33:58,940 INFO 20252 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:33:58,940 INFO 20252 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:33:58,940 INFO 20252 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:33:58,940 INFO 20252 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:34:00,154 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50159853ms at 2020-04-07 04:30:00.007
+2020-04-06 14:34:00,155 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33959846ms at 2020-04-07 00:00:00.001
+2020-04-06 14:34:00,156 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33960845ms at 2020-04-07 00:00:01.001
+2020-04-06 14:34:00,156 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:34:10.156
+2020-04-06 14:34:10,159 INFO 20252 [Job#15861548501581898995600301001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:34:10,167 ERROR 20252 [Job#15861548501581898995600301001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:10,169 ERROR 20252 [Job#15861548501581898995600301001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 7ms
+2020-04-06 14:34:10,158 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:34:20.158
+2020-04-06 14:34:20,159 INFO 20252 [Job#15861548601591899095609988992] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:34:20,162 ERROR 20252 [Job#15861548601591899095609988992] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:20,164 ERROR 20252 [Job#15861548601591899095609988992] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:34:20,160 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:34:30.160
+2020-04-06 14:34:30,160 INFO 20252 [Job#15861548701601899195622795993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:34:30,164 ERROR 20252 [Job#15861548701601899195622795993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:30,165 ERROR 20252 [Job#15861548701601899195622795993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:34:30,160 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:34:40.160
+2020-04-06 14:34:40,163 INFO 20252 [Job#15861548801621899295639109004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:34:40,175 ERROR 20252 [Job#15861548801621899295639109004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:40,178 ERROR 20252 [Job#15861548801621899295639109004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 12ms
+2020-04-06 14:34:40,162 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:34:50.162
+2020-04-06 14:34:50,163 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:35:00.163
+2020-04-06 14:34:50,163 INFO 20252 [Job#15861548901631899395651287005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:34:50,168 ERROR 20252 [Job#15861548901631899395651287005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:50,169 ERROR 20252 [Job#15861548901631899395651287005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:35:00,164 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:35:10.164
+2020-04-06 14:35:00,166 INFO 20252 [Job#15861549001641899495667817996] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:35:00,170 ERROR 20252 [Job#15861549001641899495667817996] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:00,171 ERROR 20252 [Job#15861549001641899495667817996] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:35:10,166 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:35:20.166
+2020-04-06 14:35:10,167 INFO 20252 [Job#15861549101661899595685242007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:35:10,170 ERROR 20252 [Job#15861549101661899595685242007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:10,172 ERROR 20252 [Job#15861549101661899595685242007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:35:20,167 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:35:30.167
+2020-04-06 14:35:20,168 INFO 20252 [Job#15861549201671899695698166998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:35:20,171 ERROR 20252 [Job#15861549201671899695698166998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:20,172 ERROR 20252 [Job#15861549201671899695698166998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:35:30,169 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:35:40.169
+2020-04-06 14:35:30,170 INFO 20252 [Job#15861549301681899795710862999] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:35:30,173 ERROR 20252 [Job#15861549301681899795710862999] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:30,175 ERROR 20252 [Job#15861549301681899795710862999] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:35:40,170 INFO 20052 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:35:50.170
+2020-04-06 14:35:40,171 INFO 20252 [Job#158615494016918998957200709910] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:35:40,176 ERROR 20252 [Job#158615494016918998957200709910] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:40,177 ERROR 20252 [Job#158615494016918998957200709910] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:35:53,301 INFO 10080 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:35:53,301 INFO 10080 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:35:53,302 INFO 10080 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:35:53,302 INFO 10080 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:35:54,665 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50045341ms at 2020-04-07 04:30:00.006
+2020-04-06 14:35:54,666 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33845335ms at 2020-04-07 00:00:00.001
+2020-04-06 14:35:54,667 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33846334ms at 2020-04-07 00:00:01.001
+2020-04-06 14:35:54,668 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:36:04.668
+2020-04-06 14:36:04,670 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:36:14.670
+2020-04-06 14:36:04,670 INFO 10080 [Job#1586154964669190014720142991] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:36:04,673 INFO 10080 [Job#1586154964669190014720142991] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:36:14,671 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:36:24.671
+2020-04-06 14:36:24,674 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:36:34.674
+2020-04-06 14:36:34,674 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:36:44.674
+2020-04-06 14:36:44,675 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:36:54.675
+2020-04-06 14:36:54,676 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:37:04.676
+2020-04-06 14:37:04,675 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:37:14.675
+2020-04-06 14:37:14,676 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:37:24.676
+2020-04-06 14:37:24,677 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:37:34.677
+2020-04-06 14:37:34,677 INFO 20196 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:37:44.677
+2020-04-06 14:37:50,585 INFO 19912 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:37:50,585 INFO 19912 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:37:50,585 INFO 19912 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:37:50,586 INFO 19912 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:37:52,022 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49927982ms at 2020-04-07 04:30:00.004
+2020-04-06 14:37:52,022 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33727978ms at 2020-04-07 00:00:00.000
+2020-04-06 14:37:52,023 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33728977ms at 2020-04-07 00:00:01.000
+2020-04-06 14:37:52,023 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:38:02.023
+2020-04-06 14:38:02,024 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:38:12.024
+2020-04-06 14:38:02,025 INFO 19912 [Job#15861550820241901314265152001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:38:02,029 INFO 19912 [Job#15861550820241901314265152001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:38:12,025 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:38:22.025
+2020-04-06 14:38:22,026 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:38:32.026
+2020-04-06 14:38:32,027 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:38:42.027
+2020-04-06 14:38:42,034 INFO 15668 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:38:52.034
+2020-04-06 14:38:52,928 INFO 9724 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:38:52,928 INFO 9724 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:38:52,928 INFO 9724 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:38:52,928 INFO 9724 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:38:54,329 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49865677ms at 2020-04-07 04:30:00.005
+2020-04-06 14:38:54,329 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33665671ms at 2020-04-07 00:00:00.000
+2020-04-06 14:38:54,330 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33666671ms at 2020-04-07 00:00:01.001
+2020-04-06 14:38:54,331 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:39:04.331
+2020-04-06 14:39:04,332 INFO 9724 [Job#15861551443311901937341938001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:39:04,338 ERROR 9724 [Job#15861551443311901937341938001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:04,340 ERROR 9724 [Job#15861551443311901937341938001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:39:04,332 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:39:14.332
+2020-04-06 14:39:14,334 INFO 9724 [Job#15861551543331902037362582002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:39:14,340 ERROR 9724 [Job#15861551543331902037362582002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:14,341 ERROR 9724 [Job#15861551543331902037362582002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 6ms
+2020-04-06 14:39:14,334 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:39:24.334
+2020-04-06 14:39:24,335 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:39:34.335
+2020-04-06 14:39:24,335 INFO 9724 [Job#15861551643341902137373448003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:39:29,759 ERROR 9724 [Job#15861551643341902137373448003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:29,761 ERROR 9724 [Job#15861551643341902137373448003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5424ms
+2020-04-06 14:39:34,336 INFO 9724 [Job#15861551743351902237377621004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:39:34,340 ERROR 9724 [Job#15861551743351902237377621004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:34,341 ERROR 9724 [Job#15861551743351902237377621004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:39:34,336 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:39:44.336
+2020-04-06 14:39:44,342 INFO 9724 [Job#15861551843401902337425114005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:39:44,346 ERROR 9724 [Job#15861551843401902337425114005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:44,349 ERROR 9724 [Job#15861551843401902337425114005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:39:44,342 INFO 19356 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:39:54.342
+2020-04-06 14:39:57,659 INFO 3280 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-06 14:39:57,659 INFO 3280 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-06 14:39:57,659 INFO 3280 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 14:39:57,659 INFO 3280 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js
+2020-04-06 14:39:59,123 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49800882ms at 2020-04-07 04:30:00.005
+2020-04-06 14:39:59,124 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33600876ms at 2020-04-07 00:00:00.000
+2020-04-06 14:39:59,125 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33601875ms at 2020-04-07 00:00:01.000
+2020-04-06 14:39:59,126 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:40:09.126
+2020-04-06 14:40:09,128 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:40:19.128
+2020-04-06 14:40:09,128 INFO 3280 [Job#15861552091271902585292875001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:40:09,132 INFO 3280 [Job#15861552091271902585292875001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:40:19,129 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:40:29.129
+2020-04-06 14:40:19,129 INFO 3280 [Job#15861552191291902685308295002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:40:19,130 INFO 3280 [Job#15861552191291902685308295002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 0ms
+2020-04-06 14:40:29,130 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:40:39.130
+2020-04-06 14:40:29,131 INFO 3280 [Job#15861552291291902785314973003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:40:29,132 INFO 3280 [Job#15861552291291902785314973003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:40:39,130 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:40:49.130
+2020-04-06 14:40:39,130 INFO 3280 [Job#15861552391291902885315536994] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:40:49,373 INFO 3280 [Job#15861552391291902885315536994] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 10242ms
+2020-04-06 14:40:49,131 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:40:59.131
+2020-04-06 14:40:49,373 INFO 3280 [Job#15861552491311902985330719005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:40:49,374 INFO 3280 [Job#15861552491311902985330719005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:40:59,133 INFO 3280 [Job#15861552591321903085339702006] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:40:59,134 INFO 3280 [Job#15861552591321903085339702006] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:40:59,132 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:41:09.132
+2020-04-06 14:41:09,134 INFO 3280 [Job#15861552691331903185350790007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:41:09,136 INFO 3280 [Job#15861552691331903185350790007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:41:09,133 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:41:19.133
+2020-04-06 14:41:19,135 INFO 3280 [Job#15861552791341903285363702008] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:41:19,136 INFO 3280 [Job#15861552791341903285363702008] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:41:19,135 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:41:29.135
+2020-04-06 14:41:29,136 INFO 3280 [Job#15861552891351903385375881999] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:41:29,138 INFO 3280 [Job#15861552891351903385375881999] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:41:29,137 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:41:39.137
+2020-04-06 14:41:39,138 INFO 3280 [Job#158615529913719034853895020010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:41:39,139 INFO 3280 [Job#158615529913719034853895020010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:41:39,138 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:41:49.137
+2020-04-06 14:41:49,138 INFO 3280 [Job#158615530913819035853970480011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:41:49,140 INFO 3280 [Job#158615530913819035853970480011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:41:49,138 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:41:59.138
+2020-04-06 14:41:59,139 INFO 3280 [Job#158615531913919036854092680012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:41:59,140 INFO 3280 [Job#158615531913919036854092680012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:41:59,139 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:42:09.139
+2020-04-06 14:42:09,141 INFO 3280 [Job#158615532914019037854196970013] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:42:09,143 INFO 3280 [Job#158615532914019037854196970013] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:42:09,140 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:42:19.140
+2020-04-06 14:42:19,141 INFO 3280 [Job#158615533914019038854254120014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:42:19,144 INFO 3280 [Job#158615533914019038854254120014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 3ms
+2020-04-06 14:42:19,141 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:42:29.141
+2020-04-06 14:42:29,141 INFO 3280 [Job#158615534914119039854280579915] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:42:29,147 INFO 3280 [Job#158615534914119039854280579915] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 6ms
+2020-04-06 14:42:29,141 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:42:39.141
+2020-04-06 14:42:39,143 INFO 3280 [Job#158615535914219040854457869916] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:42:39,145 INFO 3280 [Job#158615535914219040854457869916] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:42:39,143 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:42:49.143
+2020-04-06 14:42:49,182 INFO 3280 [Job#158615536918119041858280449917] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:42:49,196 INFO 3280 [Job#158615536918119041858280449917] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 14ms
+2020-04-06 14:42:49,181 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:42:59.181
+2020-04-06 14:42:59,184 INFO 3280 [Job#158615537918219042858458450018] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:42:59,190 INFO 3280 [Job#158615537918219042858458450018] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 6ms
+2020-04-06 14:42:59,182 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:43:09.182
+2020-04-06 14:43:09,186 INFO 3280 [Job#158615538918419043858679390019] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:43:09,197 INFO 3280 [Job#158615538918419043858679390019] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 11ms
+2020-04-06 14:43:09,185 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:43:19.185
+2020-04-06 14:43:19,186 INFO 3280 [Job#158615539918519044858787259920] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:43:19,188 INFO 3280 [Job#158615539918519044858787259920] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:43:19,185 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:43:29.185
+2020-04-06 14:43:29,188 INFO 3280 [Job#158615540918719045858969239921] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:43:29,190 INFO 3280 [Job#158615540918719045858969239921] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 2ms
+2020-04-06 14:43:29,187 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:43:39.187
+2020-04-06 14:43:39,190 INFO 3280 [Job#158615541918819046859049550022] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:43:39,193 INFO 3280 [Job#158615541918819046859049550022] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 3ms
+2020-04-06 14:43:39,188 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:43:49.188
+2020-04-06 14:43:49,191 INFO 3280 [Job#158615542919019047859210590023] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:43:49,194 INFO 3280 [Job#158615542919019047859210590023] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 3ms
+2020-04-06 14:43:49,190 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:43:59.190
+2020-04-06 14:43:59,193 INFO 3280 [Job#158615543919119048859369230024] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:43:59,200 INFO 3280 [Job#158615543919119048859369230024] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 7ms
+2020-04-06 14:43:59,192 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:44:09.192
+2020-04-06 14:44:09,195 INFO 3280 [Job#158615544919319049859557799925] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:44:09,202 INFO 3280 [Job#158615544919319049859557799925] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 7ms
+2020-04-06 14:44:09,194 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:44:19.194
+2020-04-06 14:44:19,197 INFO 3280 [Job#158615545919519050859766129926] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:44:19,205 INFO 3280 [Job#158615545919519050859766129926] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 6ms
+2020-04-06 14:44:19,196 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:44:29.196
+2020-04-06 14:44:29,199 INFO 3280 [Job#158615546919819051859996690027] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:44:29,205 INFO 3280 [Job#158615546919819051859996690027] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 5ms
+2020-04-06 14:44:29,198 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:44:39.198
+2020-04-06 14:44:39,200 INFO 3280 [Job#158615547919919052860115400028] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:44:39,211 INFO 3280 [Job#158615547919919052860115400028] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 11ms
+2020-04-06 14:44:39,199 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:44:49.199
+2020-04-06 14:44:49,204 INFO 3280 [Job#158615548920019053860246270029] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:44:49,209 INFO 3280 [Job#158615548920019053860246270029] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 4ms
+2020-04-06 14:44:49,201 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:44:59.201
+2020-04-06 14:44:59,202 INFO 3280 [Job#158615549920119054860355070030] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:44:59,207 INFO 3280 [Job#158615549920119054860355070030] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 5ms
+2020-04-06 14:44:59,202 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:45:09.202
+2020-04-06 14:45:09,204 INFO 3280 [Job#158615550920319055860494360031] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:45:09,209 INFO 3280 [Job#158615550920319055860494360031] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 5ms
+2020-04-06 14:45:09,203 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:45:19.203
+2020-04-06 14:45:19,205 INFO 3280 [Job#158615551920419056860624650032] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:45:19,213 INFO 3280 [Job#158615551920419056860624650032] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 7ms
+2020-04-06 14:45:19,205 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:45:29.204
+2020-04-06 14:45:29,207 INFO 3280 [Job#158615552920619057860794040033] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:45:29,212 INFO 3280 [Job#158615552920619057860794040033] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 5ms
+2020-04-06 14:45:29,206 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:45:39.206
+2020-04-06 14:45:39,208 INFO 3280 [Job#158615553920719058860913360034] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:45:39,215 INFO 3280 [Job#158615553920719058860913360034] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 6ms
+2020-04-06 14:45:39,207 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:45:49.207
+2020-04-06 14:45:49,210 INFO 3280 [Job#158615554920819059861045890035] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:45:49,215 INFO 3280 [Job#158615554920819059861045890035] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 5ms
+2020-04-06 14:45:49,209 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:45:59.209
+2020-04-06 14:45:59,210 INFO 3280 [Job#158615555920919060861156609936] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:45:59,213 INFO 3280 [Job#158615555920919060861156609936] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 3ms
+2020-04-06 14:45:59,210 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:46:09.210
+2020-04-06 14:46:09,211 INFO 3280 [Job#158615556921019061861219800037] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:46:09,214 INFO 3280 [Job#158615556921019061861219800037] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 3ms
+2020-04-06 14:46:09,210 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:46:19.210
+2020-04-06 14:46:19,212 INFO 3280 [Job#158615557921119062861303530038] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:46:19,217 INFO 3280 [Job#158615557921119062861303530038] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 4ms
+2020-04-06 14:46:19,211 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:46:29.211
+2020-04-06 14:46:29,212 INFO 3280 [Job#158615558921119063861307239939] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:46:29,215 INFO 3280 [Job#158615558921119063861307239939] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 3ms
+2020-04-06 14:46:29,211 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:46:39.211
+2020-04-06 14:46:39,212 INFO 3280 [Job#158615559921119064861326050040] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:46:39,213 INFO 3280 [Job#158615559921119064861326050040] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 1ms
+2020-04-06 14:46:39,211 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:46:49.211
+2020-04-06 14:46:49,213 INFO 3280 [Job#158615560921219065861417329941] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:46:49,218 INFO 3280 [Job#158615560921219065861417329941] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 5ms
+2020-04-06 14:46:49,212 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:46:59.212
+2020-04-06 14:46:59,213 INFO 3280 [Job#158615561921319066861501480042] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js executing by app
+2020-04-06 14:46:59,217 INFO 3280 [Job#158615561921319066861501480042] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute succeed, used 4ms
+2020-04-06 14:46:59,213 INFO 17692 [Timer] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js next time will execute after 10000ms at 2020-04-06 14:47:09.213

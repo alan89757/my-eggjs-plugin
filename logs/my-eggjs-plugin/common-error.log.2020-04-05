@@ -1,0 +1,51 @@
+2020-04-05 12:25:32,880 ERROR 13560 nodejs.ClusterClientNoResponseError: client no response in 14468630ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 13560
+hostname: SAIC-N01420
+
+2020-04-05 12:41:23,205 ERROR 13568 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\projectNew\\my-eggjs-plugin\\app\\public"
+name: "EPERMError"
+pid: 13568
+hostname: SAIC-N01420
+
+2020-04-05 16:56:35,620 ERROR 13568 nodejs.ClusterClientNoResponseError: client no response in 13565903ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 13568
+hostname: SAIC-N01420
+
+2020-04-05 17:29:18,322 ERROR 13568 nodejs.ClusterClientNoResponseError: client no response in 562646ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 13568
+hostname: SAIC-N01420
+
+2020-04-05 19:12:51,994 ERROR 13568 nodejs.ClusterClientNoResponseError: client no response in 5593650ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 13568
+hostname: SAIC-N01420
+
+2020-04-06 09:28:18,162 ERROR 13568 nodejs.ClusterClientNoResponseError: client no response in 38405740ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 13568
+hostname: SAIC-N01420
+

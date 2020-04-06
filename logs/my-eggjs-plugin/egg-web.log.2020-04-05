@@ -1,0 +1,54 @@
+2020-04-05 08:24:24,209 INFO 2356 [egg-logrotator] app logger reload: got log-reload message
+2020-04-05 12:25:32,881 WARN 2356 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-05 12:25:33,017 WARN 2356 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-05 12:33:17,020 INFO 18484 [egg:logger] init all loggers with options: {"dir":"C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-eggjs-plugin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-05 12:33:17,115 INFO 18484 [egg-multipart] stream mode enable
+2020-04-05 12:33:17,258 INFO 18484 [egg-static] starting static serve /public/ -> C:\projectNew\my-eggjs-plugin\app\public
+2020-04-05 12:33:17,262 INFO 18484 [egg-security] use csrf middleware
+2020-04-05 12:33:17,264 INFO 18484 [egg-security] use methodnoallow middleware
+2020-04-05 12:33:17,265 INFO 18484 [egg-security] use noopen middleware
+2020-04-05 12:33:17,266 INFO 18484 [egg-security] use nosniff middleware
+2020-04-05 12:33:17,268 INFO 18484 [egg-security] use xssProtection middleware
+2020-04-05 12:33:17,270 INFO 18484 [egg-security] use xframe middleware
+2020-04-05 12:33:17,271 INFO 18484 [egg-security] use dta middleware
+2020-04-05 12:33:17,271 INFO 18484 [egg-security] compose 7 middlewares into one security middleware
+2020-04-05 12:33:17,286 INFO 18484 [egg:core] dump config after load, 7ms
+2020-04-05 12:33:17,332 INFO 18484 [egg-watcher:application] watcher start success
+2020-04-05 12:33:18,320 INFO 18484 [egg:core] dump config after ready, 6ms
+2020-04-05 12:40:52,314 INFO 13964 [egg:logger] init all loggers with options: {"dir":"C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-eggjs-plugin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-05 12:40:52,357 INFO 13964 [egg-multipart] stream mode enable
+2020-04-05 12:40:52,448 INFO 13964 [egg-static] starting static serve /public/ -> C:\projectNew\my-eggjs-plugin\app\public
+2020-04-05 12:40:52,451 INFO 13964 [egg-security] use csrf middleware
+2020-04-05 12:40:52,453 INFO 13964 [egg-security] use methodnoallow middleware
+2020-04-05 12:40:52,454 INFO 13964 [egg-security] use noopen middleware
+2020-04-05 12:40:52,455 INFO 13964 [egg-security] use nosniff middleware
+2020-04-05 12:40:52,456 INFO 13964 [egg-security] use xssProtection middleware
+2020-04-05 12:40:52,457 INFO 13964 [egg-security] use xframe middleware
+2020-04-05 12:40:52,458 INFO 13964 [egg-security] use dta middleware
+2020-04-05 12:40:52,458 INFO 13964 [egg-security] compose 7 middlewares into one security middleware
+2020-04-05 12:40:52,472 INFO 13964 [egg:core] dump config after load, 8ms
+2020-04-05 12:40:52,512 INFO 13964 [egg-watcher:application] watcher start success
+2020-04-05 12:40:53,650 INFO 13964 [egg:core] dump config after ready, 30ms
+2020-04-05 12:41:09,381 INFO 19236 [egg:logger] init all loggers with options: {"dir":"C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-eggjs-plugin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-05 12:41:09,441 INFO 19236 [egg-multipart] stream mode enable
+2020-04-05 12:41:09,572 INFO 19236 [egg-static] starting static serve /public/ -> C:\projectNew\my-eggjs-plugin\app\public
+2020-04-05 12:41:09,576 INFO 19236 [egg-security] use csrf middleware
+2020-04-05 12:41:09,578 INFO 19236 [egg-security] use methodnoallow middleware
+2020-04-05 12:41:09,579 INFO 19236 [egg-security] use noopen middleware
+2020-04-05 12:41:09,581 INFO 19236 [egg-security] use nosniff middleware
+2020-04-05 12:41:09,583 INFO 19236 [egg-security] use xssProtection middleware
+2020-04-05 12:41:09,584 INFO 19236 [egg-security] use xframe middleware
+2020-04-05 12:41:09,585 INFO 19236 [egg-security] use dta middleware
+2020-04-05 12:41:09,586 INFO 19236 [egg-security] compose 7 middlewares into one security middleware
+2020-04-05 12:41:09,607 INFO 19236 [egg:core] dump config after load, 13ms
+2020-04-05 12:41:09,663 INFO 19236 [egg-watcher:application] watcher start success
+2020-04-05 12:41:10,264 INFO 19236 [egg:core] dump config after ready, 11ms
+2020-04-05 16:56:35,621 WARN 19236 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-05 17:29:18,318 WARN 19236 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-05 19:12:51,995 WARN 19236 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-06 09:28:18,109 WARN 19236 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-06 09:28:18,182 INFO 19236 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "C:\\Users\\LIANGR~1\\AppData\\Local\\Temp\\egg-multipart-tmp\\my-eggjs-plugin"
+2020-04-06 09:28:18,188 INFO 19236 [egg-logrotator] clean all log before 31 days
+2020-04-06 09:28:18,195 INFO 19236 [-/127.0.0.1/-/16ms SCHEDULE /__schedule?path=C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-04-06 09:28:18,203 INFO 19236 [egg-logrotator] broadcast log-reload
+2020-04-06 09:28:18,203 INFO 19236 [egg-logrotator] rotate files success by DayRotator, files ["C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\common-error.log -> C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\common-error.log.2020-04-05","C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\my-eggjs-plugin-web.log -> C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\my-eggjs-plugin-web.log.2020-04-05","C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\egg-web.log -> C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\egg-web.log.2020-04-05","C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\egg-schedule.log -> C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\egg-schedule.log.2020-04-05","C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\egg-agent.log -> C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin\\egg-agent.log.2020-04-05"]

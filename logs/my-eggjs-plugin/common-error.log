@@ -1,0 +1,396 @@
+2020-04-06 10:38:45,390 ERROR 13568 nodejs.ClusterClientNoResponseError: client no response in 2067123ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 13568
+hostname: SAIC-N01420
+
+2020-04-06 13:15:30,575 ERROR 15676 nodejs.ClusterClientNoResponseError: client no response in 69839ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 15676
+hostname: SAIC-N01420
+
+2020-04-06 13:20:41,857 ERROR 18824 nodejs.ECONNABORTEDError: write ECONNABORTED (address: 127.0.0.1:52993)
+    at afterWriteDispatched (internal/stream_base_commons.js:150:25)
+    at writeGeneric (internal/stream_base_commons.js:141:3)
+    at Socket._writeGeneric (net.js:770:11)
+    at Socket._write (net.js:782:8)
+    at doWrite (_stream_writable.js:431:12)
+    at writeOrBuffer (_stream_writable.js:415:5)
+    at Socket.Writable.write (_stream_writable.js:305:11)
+    at Follower.sendHeartBeat (C:\projectNew\my-eggjs-plugin\node_modules\tcp-base\lib\base.js:105:18)
+    at Timeout._onTimeout (C:\projectNew\my-eggjs-plugin\node_modules\tcp-base\lib\base.js:437:12)
+    at listOnTimeout (internal/timers.js:531:17)
+errno: "ECONNABORTED"
+code: "ECONNABORTED"
+syscall: "write"
+name: "ECONNABORTEDError"
+pid: 18824
+hostname: SAIC-N01420
+
+2020-04-06 14:30:09,483 ERROR 5920 [Job#15861546094791896588809128001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:09,488 ERROR 5920 [Job#15861546094791896588809128001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 7ms
+2020-04-06 14:30:19,480 ERROR 5920 [Job#15861546194791896688813831002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:19,484 ERROR 5920 [Job#15861546194791896688813831002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:30:29,481 ERROR 5920 [Job#15861546294801896788822598993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:29,487 ERROR 5920 [Job#15861546294801896788822598993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 7ms
+2020-04-06 14:30:39,482 ERROR 5920 [Job#15861546394811896888832989994] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:39,486 ERROR 5920 [Job#15861546394811896888832989994] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:30:49,483 ERROR 5920 [Job#15861546494821896988846867995] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:49,487 ERROR 5920 [Job#15861546494821896988846867995] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:30:59,484 ERROR 5920 [Job#15861546594841897088860086006] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:30:59,488 ERROR 5920 [Job#15861546594841897088860086006] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:31:09,488 ERROR 5920 [Job#15861546694871897188890760007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:09,493 ERROR 5920 [Job#15861546694871897188890760007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:31:19,489 ERROR 5920 [Job#15861546794891897288906264998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:19,493 ERROR 5920 [Job#15861546794891897288906264998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:31:29,489 ERROR 5920 [Job#15861546894891897388908906009] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:29,491 ERROR 5920 [Job#15861546894891897388908906009] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 2ms
+2020-04-06 14:31:39,493 ERROR 5920 [Job#158615469949218974889422860010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:39,500 ERROR 5920 [Job#158615469949218974889422860010] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 8ms
+2020-04-06 14:31:49,496 ERROR 5920 [Job#158615470949418975889594180011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:49,507 ERROR 5920 [Job#158615470949418975889594180011] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 12ms
+2020-04-06 14:31:59,496 ERROR 5920 [Job#158615471949518976889682020012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:31:59,498 ERROR 5920 [Job#158615471949518976889682020012] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:32:09,496 ERROR 5920 [Job#158615472949618977889759940013] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:09,499 ERROR 5920 [Job#158615472949618977889759940013] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:32:19,498 ERROR 5920 [Job#158615473949618978889852130014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:19,501 ERROR 5920 [Job#158615473949618978889852130014] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:32:29,498 ERROR 5920 [Job#158615474949718979889890089915] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:29,498 ERROR 5920 [Job#158615474949718979889890089915] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 1ms
+2020-04-06 14:32:39,499 ERROR 5920 [Job#158615475949818980889968640016] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:39,502 ERROR 5920 [Job#158615475949818980889968640016] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:32:49,499 ERROR 5920 [Job#158615476949818981889979260017] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:49,502 ERROR 5920 [Job#158615476949818981889979260017] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:32:59,502 ERROR 5920 [Job#158615477949918982890143770018] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:32:59,516 ERROR 5920 [Job#158615477949918982890143770018] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 15ms
+2020-04-06 14:33:09,502 ERROR 5920 [Job#158615478950118983890317730019] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:09,506 ERROR 5920 [Job#158615478950118983890317730019] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:33:19,505 ERROR 5920 [Job#158615479950218984890493510020] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:19,510 ERROR 5920 [Job#158615479950218984890493510020] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 6ms
+2020-04-06 14:33:29,506 ERROR 5920 [Job#158615480950518985890696820021] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:29,510 ERROR 5920 [Job#158615480950518985890696820021] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:33:39,508 ERROR 5920 [Job#158615481950618986890891400022] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:39,511 ERROR 5920 [Job#158615481950618986890891400022] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:33:49,509 ERROR 5920 [Job#158615482950718987890948320023] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:7:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:33:49,513 ERROR 5920 [Job#158615482950718987890948320023] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:34:10,162 ERROR 20252 [Job#15861548501581898995600301001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:10,167 ERROR 20252 [Job#15861548501581898995600301001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 7ms
+2020-04-06 14:34:20,159 ERROR 20252 [Job#15861548601591899095609988992] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:20,162 ERROR 20252 [Job#15861548601591899095609988992] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:34:30,161 ERROR 20252 [Job#15861548701601899195622795993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:30,164 ERROR 20252 [Job#15861548701601899195622795993] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:34:40,164 ERROR 20252 [Job#15861548801621899295639109004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:40,175 ERROR 20252 [Job#15861548801621899295639109004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 12ms
+2020-04-06 14:34:50,164 ERROR 20252 [Job#15861548901631899395651287005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:34:50,168 ERROR 20252 [Job#15861548901631899395651287005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:35:00,166 ERROR 20252 [Job#15861549001641899495667817996] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:00,170 ERROR 20252 [Job#15861549001641899495667817996] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:35:10,168 ERROR 20252 [Job#15861549101661899595685242007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:10,171 ERROR 20252 [Job#15861549101661899595685242007] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:35:20,169 ERROR 20252 [Job#15861549201671899695698166998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:20,171 ERROR 20252 [Job#15861549201671899695698166998] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 3ms
+2020-04-06 14:35:30,170 ERROR 20252 [Job#15861549301681899795710862999] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:30,174 ERROR 20252 [Job#15861549301681899795710862999] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:35:40,171 ERROR 20252 [Job#158615494016918998957200709910] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: app is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:11:16)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:35:40,176 ERROR 20252 [Job#158615494016918998957200709910] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:36:04,675 ERROR 10080 nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\projectNew\my-eggjs-plugin\15s\egg-schedule.log' (uncaughtException throw 1 times on pid:10080)
+ENOENTError: ENOENT: no such file or directory, open 'C:\projectNew\my-eggjs-plugin\15s\egg-schedule.log' (uncaughtException throw 1 times on pid:10080)
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\projectNew\\my-eggjs-plugin\\15s\\egg-schedule.log"
+name: "ENOENTError"
+pid: 10080
+hostname: SAIC-N01420
+
+2020-04-06 14:38:02,030 ERROR 19912 nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\projectNew\my-eggjs-plugin\15s\egg-schedule.log' (uncaughtException throw 1 times on pid:19912)
+ENOENTError: ENOENT: no such file or directory, open 'C:\projectNew\my-eggjs-plugin\15s\egg-schedule.log' (uncaughtException throw 1 times on pid:19912)
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\projectNew\\my-eggjs-plugin\\15s\\egg-schedule.log"
+name: "ENOENTError"
+pid: 19912
+hostname: SAIC-N01420
+
+2020-04-06 14:39:04,335 ERROR 9724 [Job#15861551443311901937341938001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:04,339 ERROR 9724 [Job#15861551443311901937341938001] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5ms
+2020-04-06 14:39:14,335 ERROR 9724 [Job#15861551543331902037362582002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:14,340 ERROR 9724 [Job#15861551543331902037362582002] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 6ms
+2020-04-06 14:39:24,335 ERROR 9724 [Job#15861551643341902137373448003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:29,759 ERROR 9724 [Job#15861551643341902137373448003] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 5424ms
+2020-04-06 14:39:34,336 ERROR 9724 [Job#15861551743351902237377621004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:34,340 ERROR 9724 [Job#15861551743351902237377621004] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms
+2020-04-06 14:39:44,343 ERROR 9724 [Job#15861551843401902337425114005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute error. ReferenceError: baseDir is not defined
+    at Object.task (C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js:13:25)
+    at Messenger.<anonymous> (C:\projectNew\my-eggjs-plugin\node_modules\egg-schedule\app.js:46:21)
+    at Messenger.emit (events.js:210:5)
+    at Messenger._onMessage (C:\projectNew\my-eggjs-plugin\node_modules\egg\lib\core\messenger\ipc.js:116:12)
+    at process.emit (events.js:215:7)
+    at emit (internal/child_process.js:876:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-06 14:39:44,346 ERROR 9724 [Job#15861551843401902337425114005] C:\projectNew\my-eggjs-plugin\lib\plugin\egg-schedule\app\schedule\log.js execute failed, used 4ms

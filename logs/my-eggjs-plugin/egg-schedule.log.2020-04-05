@@ -1,0 +1,24 @@
+2020-04-05 12:33:17,114 INFO 18484 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-05 12:33:17,114 INFO 18484 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-05 12:33:17,114 INFO 18484 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-05 12:33:18,335 INFO 19668 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 57401669ms at 2020-04-06 04:30:00.004
+2020-04-05 12:33:18,335 INFO 19668 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 41201665ms at 2020-04-06 00:00:00.000
+2020-04-05 12:33:18,336 INFO 19668 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 41202664ms at 2020-04-06 00:00:01.000
+2020-04-05 12:40:52,355 INFO 13964 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-05 12:40:52,356 INFO 13964 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-05 12:40:52,356 INFO 13964 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-05 12:40:53,673 INFO 13568 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 56946337ms at 2020-04-06 04:30:00.010
+2020-04-05 12:40:53,674 INFO 13568 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 40746327ms at 2020-04-06 00:00:00.001
+2020-04-05 12:40:53,677 INFO 13568 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 40747326ms at 2020-04-06 00:00:01.002
+2020-04-05 12:41:09,440 INFO 19236 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-05 12:41:09,440 INFO 19236 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-05 12:41:09,440 INFO 19236 [egg-schedule]: register schedule C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-06 09:28:18,152 INFO 19236 [Job#15861364981301715475329274001] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2020-04-06 09:28:18,164 INFO 19236 [Job#15861364981441715475466262001] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-04-06 09:28:18,179 INFO 19236 [Job#15861364981511715475533727001] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2020-04-06 09:28:18,189 INFO 19236 [Job#15861364981301715475329274001] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 31ms
+2020-04-06 09:28:18,195 INFO 19236 [Job#15861364981511715475533727001] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 16ms
+2020-04-06 09:28:18,203 INFO 19236 [Job#15861364981441715475466262001] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 39ms
+2020-04-06 09:28:18,144 INFO 13568 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 52301867ms at 2020-04-07 00:00:00.010
+2020-04-06 09:28:18,151 INFO 13568 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52302856ms at 2020-04-07 00:00:01.007
+2020-04-06 09:28:18,161 INFO 13568 [Timer] C:\projectNew\my-eggjs-plugin\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68501849ms at 2020-04-07 04:30:00.010
