@@ -345,3 +345,23 @@ hostname: SAIC-N01420
 2020-04-06 14:39:55,627 INFO 17692 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\app.js"
 2020-04-06 14:39:55,629 INFO 17692 [egg-watcher:agent] watcher start success
 2020-04-06 14:39:55,655 INFO 17692 [egg:core] dump config after ready, 11ms
+2020-04-06 17:25:51,559 INFO 14960 [egg:logger] init all loggers with options: {"dir":"C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-eggjs-plugin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-06 17:25:51,568 INFO 14960 [egg:core] dump config after load, 5ms
+2020-04-06 17:25:51,586 INFO 14960 [egg-watcher] Start watching: ["C:\\projectNew\\my-eggjs-plugin\\app","C:\\projectNew\\my-eggjs-plugin\\config","C:\\projectNew\\my-eggjs-plugin\\mocks","C:\\projectNew\\my-eggjs-plugin\\mocks_proxy","C:\\projectNew\\my-eggjs-plugin\\app.js"]
+2020-04-06 17:25:51,586 INFO 14960 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\app"
+2020-04-06 17:25:51,587 INFO 14960 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\config"
+2020-04-06 17:25:51,587 INFO 14960 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\mocks"
+2020-04-06 17:25:51,587 INFO 14960 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\mocks_proxy"
+2020-04-06 17:25:51,587 INFO 14960 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\app.js"
+2020-04-06 17:25:51,588 INFO 14960 [egg-watcher:agent] watcher start success
+2020-04-06 17:25:51,603 INFO 14960 [egg:core] dump config after ready, 7ms
+2020-04-06 17:26:39,889 INFO 12596 [egg:logger] init all loggers with options: {"dir":"C:\\projectNew\\my-eggjs-plugin\\logs\\my-eggjs-plugin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"my-eggjs-plugin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-06 17:26:39,899 INFO 12596 [egg:core] dump config after load, 6ms
+2020-04-06 17:26:39,918 INFO 12596 [egg-watcher] Start watching: ["C:\\projectNew\\my-eggjs-plugin\\app","C:\\projectNew\\my-eggjs-plugin\\config","C:\\projectNew\\my-eggjs-plugin\\mocks","C:\\projectNew\\my-eggjs-plugin\\mocks_proxy","C:\\projectNew\\my-eggjs-plugin\\app.js"]
+2020-04-06 17:26:39,918 INFO 12596 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\app"
+2020-04-06 17:26:39,918 INFO 12596 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\config"
+2020-04-06 17:26:39,918 INFO 12596 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\mocks"
+2020-04-06 17:26:39,919 INFO 12596 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\mocks_proxy"
+2020-04-06 17:26:39,919 INFO 12596 [egg-watcher] Start watching: "C:\\projectNew\\my-eggjs-plugin\\app.js"
+2020-04-06 17:26:39,920 INFO 12596 [egg-watcher:agent] watcher start success
+2020-04-06 17:26:39,933 INFO 12596 [egg:core] dump config after ready, 5ms

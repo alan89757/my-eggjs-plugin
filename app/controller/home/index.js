@@ -1,4 +1,4 @@
-const Controller = require("egg").Controller;
+const Controller = require("my-egg-framework").Controller;
 
 class Home extends Controller {
   async index() {
